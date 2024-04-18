@@ -5,8 +5,8 @@
 This repository explores various option pricing models used in finance to estimate the fair value of stock options.
 Implemented Models
 
-    Black-Scholes Model: The industry standard model for European options pricing under the assumption of constant volatility.
-    Heston Model: A stochastic volatility model that captures volatility smile (where implied volatility changes with strike price).
+- Black-Scholes Model: The industry standard model for European options pricing under the assumption of constant volatility.
+- Heston Model: A stochastic volatility model that captures volatility smile (where implied volatility changes with strike price).
 
 ### Dependencies
 
