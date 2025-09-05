@@ -222,7 +222,7 @@ sniffio==1.3.0
 sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
 stack-data==0.6.2
-starlette==0.27.0
+starlette==0.47.2
 statsmodels==0.14.1
 stochastic==0.7.0
 style==1.1.0
