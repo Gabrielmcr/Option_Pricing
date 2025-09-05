@@ -168,7 +168,7 @@ py-lets-be-rational==1.0.1
 py-vollib==1.0.1
 py-vollib-vectorized==0.1.1
 pyaml==23.12.0
-pyarrow==13.0.0
+pyarrow>=14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pybind11==2.11.1
